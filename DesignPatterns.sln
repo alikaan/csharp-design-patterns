@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Comp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{85C418FA-2810-4E15-91D7-643C730D9E06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{C16DE7F9-A81E-47CA-94C1-79F2C6D0D196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brdige", "Brdige\Brdige.csproj", "{C66EB4F4-F3E5-45DD-8941-06D83F0B1B77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{85C418FA-2810-4E15-91D7-643C730D9E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85C418FA-2810-4E15-91D7-643C730D9E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85C418FA-2810-4E15-91D7-643C730D9E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C16DE7F9-A81E-47CA-94C1-79F2C6D0D196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16DE7F9-A81E-47CA-94C1-79F2C6D0D196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16DE7F9-A81E-47CA-94C1-79F2C6D0D196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16DE7F9-A81E-47CA-94C1-79F2C6D0D196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66EB4F4-F3E5-45DD-8941-06D83F0B1B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66EB4F4-F3E5-45DD-8941-06D83F0B1B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66EB4F4-F3E5-45DD-8941-06D83F0B1B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66EB4F4-F3E5-45DD-8941-06D83F0B1B77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
