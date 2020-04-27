@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Deco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brdige", "Brdige\Brdige.csproj", "{C66EB4F4-F3E5-45DD-8941-06D83F0B1B77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{CE57527C-19C1-4FF6-A7EF-227704B60B57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{C66EB4F4-F3E5-45DD-8941-06D83F0B1B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C66EB4F4-F3E5-45DD-8941-06D83F0B1B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C66EB4F4-F3E5-45DD-8941-06D83F0B1B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE57527C-19C1-4FF6-A7EF-227704B60B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE57527C-19C1-4FF6-A7EF-227704B60B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE57527C-19C1-4FF6-A7EF-227704B60B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE57527C-19C1-4FF6-A7EF-227704B60B57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

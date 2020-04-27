@@ -46,7 +46,7 @@ namespace Brdige
     }   
     class SmsSender : MessageSenderBase
     {
-        public override void Send(Body body)
+        public override void Send (Body body)
         {
             Console.WriteLine("{0} was sent via SMS Sender", body.Title);
         }
